@@ -2,7 +2,7 @@
 
 Card Windows Form Source Code at https://github.com/kyuuuyki/Card 
 
-Card Console Apps Source Code at https://github.com/kyuuuyki/CardsConsoleApp
+Card Console Apps Source Code at https://github.com/kyuuuyki/CardGame
 
 UML
 
